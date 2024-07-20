@@ -1,0 +1,32 @@
+{
+  "name": "screenwisecss",
+  "version": "1.0.0",
+  "description": "A css file that helps in making responsive websites and web applications",
+  "main": "index.js",
+  "bin": {
+    "install-screenwise-css": "scripts/install-screenwise.js"
+  },
+  "scripts": {
+    "install": "node scripts/install-screenwise.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "custom css",
+    "css installer",
+    "html css",
+    "npm",
+    "global npm package",
+    "cli",
+    "frontend",
+    "web development",
+    "automation",
+    "web design"
+  ],
+  "author": "Joseph Suberu",
+  "license": "ISC",
+  "dependencies": {
+    "screenwisecss": "^1.0.0"
+  }
+}
