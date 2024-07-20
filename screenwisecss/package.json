@@ -1,6 +1,6 @@
 {
   "name": "screenwisecss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A css file that helps in making responsive websites and web applications",
   "main": "index.js",
   "bin": {
