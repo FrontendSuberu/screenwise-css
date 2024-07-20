@@ -24,6 +24,11 @@
     "automation",
     "web design"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrontendSuberu/screenwise-css"
+  },
+
   "author": "Joseph Suberu",
   "license": "ISC",
   "dependencies": {
