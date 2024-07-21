@@ -1,12 +1,13 @@
 {
   "name": "screenwise-css",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "a css liabray used for building responsive websites and web applications",
   "main": "index.js",
 
   "bin": {
-    "install-screenwise": "./scripts/install-screenwise.js"
+    "install-screenwise": "screenwisecss/scripts/install-screenwise.js"
   },
+  
   "scripts": {
  "install-css": "node scripts/install-css.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,6 +26,12 @@
     "automation",
     "web design"
   ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrontendSuberu/screenwise-css"
+  },
+
   "dependencies": {},
   "author": "Joseph Suberu",
   "license": "ISC"
